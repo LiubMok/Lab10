@@ -1,4 +1,4 @@
-package adapter.task3;
+package adapter.task3.ukrainian;
 
 public class Авторизація {
     public boolean авторизуватися(БазаДаних db) {

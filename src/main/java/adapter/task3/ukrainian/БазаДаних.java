@@ -1,4 +1,4 @@
-package adapter.task3;
+package adapter.task3.ukrainian;
 
 public class БазаДаних {
     public String отриматиДаніКористувача() {

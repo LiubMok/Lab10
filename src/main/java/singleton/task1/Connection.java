@@ -18,7 +18,7 @@ public class Connection {
         Statement stmt = dbConnection.createStatement();
         stmt.executeUpdate(query);
     }
-
+    @SneakyThrows
     public static Connection getConnection(){
 //        статична фабрика
         if (connection == null) {
